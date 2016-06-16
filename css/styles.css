@@ -1,0 +1,55 @@
+
+ul {
+  list-style: none;
+}
+
+.player1{
+  background-color: lightblue;
+  height: 225px;
+  border: 1px solid red;
+}
+
+.player2{
+  background-color: lightgreen;
+  height: 225px;
+  border: 1px solid blue;
+}
+
+
+.gamearea{
+  background-color: pink;
+  height: 225px;
+  border: 1px solid green;
+}
+
+ h1, h2{
+   text-align: center;
+ }
+
+
+ button{
+   text-align: center;
+ }
+
+ .dieRollDiv{
+   /*border: black, 4px;*/
+   color: red;
+   width: 100%;
+   /*height: 40px;*/
+ }
+
+ .turnTotalDiv {
+   color: blue;
+   width: 100%;
+   /*height: 40px;*/
+ }
+
+
+.winner {
+  background-color: yellow;
+  display: none;
+}
+
+.p2Buttons{
+  display: none;
+}
