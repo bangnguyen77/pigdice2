@@ -69,4 +69,3 @@ $(document).ready(function(event){
     $(".p2Buttons").fadeOut();
   });
 });
-Status API Training Shop Blog About
